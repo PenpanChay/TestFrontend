@@ -14,7 +14,7 @@
                             industry. Lorem Ipsum has been the industry's </div>
                     </div>
                 </div>
-                <div class="col-4"><img src="/images/bicycle.png" /></div>
+                <div class="col-4 my-auto"><img src="/images/bicycle.png" /></div>
             </div>
         </section>
         <section class="container my-auto p-5 text-center">
@@ -55,7 +55,7 @@
         </section>
         <section class="container my-auto p-5 text-center">
             <div class="row justify-content-center">
-                <div class="col-4"><img src="/images/bicycle.png" /></div>
+                <div class="col-4 my-auto"><img src="/images/bicycle.png" /></div>
                 <div class="col-4">
                     <h1 class="text-2xl text-white"><strong>ติดต่อเรา</strong></h1>
                     <input type="text" class="form-control no-border mb-3" id="inputname" placeholder="ชื่อ - นามสกุล">
